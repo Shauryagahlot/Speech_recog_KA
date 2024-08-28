@@ -7,7 +7,6 @@ import webbrowser
 import datetime
 import pyjokes
 import os
-import pywhatkit as pw
 import pathlib
 from PIL import Image
 
